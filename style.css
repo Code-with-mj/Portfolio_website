@@ -85,9 +85,9 @@ section {
 }
 
 .home-img img {
-   width: 35vw;
+   width: 40vh;
    background-color: #1f242d;
-   
+
 }
 
 @keyframes floatImage {
